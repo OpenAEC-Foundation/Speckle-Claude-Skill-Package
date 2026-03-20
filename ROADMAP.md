@@ -1,6 +1,6 @@
 # Speckle Skill Package — ROADMAP
 
-## Current Status: VALIDATION IN PROGRESS (v0.5.0)
+## Current Status: PUBLICATION COMPLETE (v1.0.0)
 
 | Phase | Description | Status | Skills |
 |-------|-------------|--------|--------|
@@ -10,8 +10,8 @@
 | B3 | Masterplan Refinement | DONE | — |
 | B4 | Topic-Specific Research | SKIPPED (covered by B2) | — |
 | B5 | Skill Creation (batches) | DONE | 25/25 |
-| B6 | Validation | IN PROGRESS | — |
-| B7 | Publication | NOT STARTED | — |
+| B6 | Validation | DONE (99.6% pass, 1 fix applied) | — |
+| B7 | Publication | DONE | — |
 
 ## Skill Inventory: 25 skills + MCP server (parallel track)
 

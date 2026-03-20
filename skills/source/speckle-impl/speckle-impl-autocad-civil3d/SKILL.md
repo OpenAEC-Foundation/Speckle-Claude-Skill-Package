@@ -199,7 +199,7 @@ Civil3dObject extends DataObject with infrastructure-specific fields:
 | `displayValue` | Mesh/visual geometry | What you SEE in the viewer |
 | `baseCurves` | Curve geometry array | The FUNDAMENTAL curve of the civil entity |
 
-**ALWAYS** use `baseCurves` when you need the geometric definition of an alignment, profile, or featureline. The `displayValue` contains the visual representation (often a mesh), which is NOT the same as the design curve.
+**ALWAYS** use `baseCurves` when you need the geometric definition of an alignment, profile, or featureline. The `displayValue` contains the visual representation (a mesh for most Civil 3D objects), which is NOT the same as the design curve.
 
 ### Civil 3D Entity Types
 

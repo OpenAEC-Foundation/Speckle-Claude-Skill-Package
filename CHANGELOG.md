@@ -4,6 +4,21 @@ All notable changes to the Speckle Skill Package will be documented in this file
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.0.0] - 2026-03-20
+
+### Added
+- All 25 skills complete (100 files: 25 SKILL.md + 75 reference files)
+- Definitive masterplan with 25 agent prompts and 9-batch execution plan
+- README.md with full skill catalog, installation guide, and quick start
+- Social preview banner (docs/social-preview-banner.html) in OpenAEC style
+- INDEX.md with complete skill catalog and dependency graph
+- Validation report: 99.6% pass rate (249/250 checks)
+
+### Changed
+- INDEX.md updated from preliminary (22 NOT STARTED) to final (25 DONE)
+- ROADMAP.md: all phases DONE
+- Fixed hedging word "often" in speckle-impl-autocad-civil3d
+
 ## [0.3.0] - 2026-03-20
 
 ### Added

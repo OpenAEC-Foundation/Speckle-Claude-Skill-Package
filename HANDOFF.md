@@ -3,22 +3,23 @@
 > Gegenereerd: 2026-03-20 vanuit Skill-Package-Workflow-Template
 
 ## Status
-- **Fase:** B0 Bootstrap DONE — docs compleet, skills/ structuur aangemaakt
-- **Skills:** 0/22 geschreven
-- **GitHub remote:** Nog niet aangemaakt
-- **README:** Ontbreekt
+- **Fase:** v1.0.0 COMPLETE — alle 25 skills geschreven, gevalideerd, en gepubliceerd
+- **Skills:** 25/25 geschreven (100 bestanden)
+- **GitHub remote:** https://github.com/OpenAEC-Foundation/Speckle-Claude-Skill-Package
+- **README:** Compleet met banner, skill catalog, installatie-instructies
 
 ## Wat er is
-Alle governance docs zijn klaar: CLAUDE.md, ROADMAP.md, INDEX.md, WAY_OF_WORK.md, DECISIONS.md, LESSONS.md, SOURCES.md, REQUIREMENTS.md, CHANGELOG.md, START-PROMPT.md.
-De `skills/source/` directory structuur met 22 lege skill mappen staat klaar.
+- 25 deterministic skills across 5 categories (core, syntax, impl, errors, agents)
+- 6 deep research documents (~24K woorden)
+- Definitive masterplan met 25 agent prompts
+- Social preview banner in OpenAEC stijl
+- Validatie: 99.6% pass rate
 
-## Wat er moet gebeuren
-1. **Fase B1: Raw Masterplan** — Map het complete Speckle landschap
-2. **Fase B2: Deep Research** — 4 research documenten (min. 2000 woorden elk)
-3. **Fase B3: Masterplan Refinement** — Skill inventory definitief maken
-4. **Fase B4+B5: Skill Creation** — Batches van 3 skills, dependency-aware
-5. **Fase B6: Validation** — Quality gates
-6. **Fase B7: Publication** — README, LICENSE, GitHub remote, compliance audit
+## Wat er nog kan
+1. **MCP Server** — Custom Speckle MCP server bouwen (D-010, parallel track)
+2. **GitHub Release** — `git tag v1.0.0` en `gh release create`
+3. **Social Preview PNG** — Banner HTML renderen naar PNG en uploaden als GitHub social preview
+4. **GitHub Push** — Push naar remote en topics instellen
 
 ## Batch volgorde
 1. core (object-model, transport, api) — 3 skills
