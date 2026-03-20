@@ -169,15 +169,22 @@ See [WAY_OF_WORK.md](WAY_OF_WORK.md) for the full methodology and [REQUIREMENTS.
 | Package | Skills | Technology |
 |---------|:------:|------------|
 | [Blender-Bonsai](https://github.com/OpenAEC-Foundation/Blender-Bonsai-ifcOpenshell-Sverchok-Claude-Skill-Package) | 73 | Blender, Bonsai, IfcOpenShell, Sverchok |
-| [ERPNext](https://github.com/OpenAEC-Foundation/ERPNext_Anthropic_Claude_Development_Skill_Package) | 28 | ERPNext / Frappe |
+| [Frappe / ERPNext](https://github.com/OpenAEC-Foundation/Frappe_Claude_Skill_Package) | 53 | Frappe Framework & ERPNext v14–v16 |
 | [Tauri 2](https://github.com/OpenAEC-Foundation/Tauri-2-Claude-Skill-Package) | 27 | Tauri 2 / Rust / TypeScript |
+| [**Speckle**](https://github.com/OpenAEC-Foundation/Speckle-Claude-Skill-Package) | **25** | **Speckle Data Platform (this package)** |
 | [Nextcloud](https://github.com/OpenAEC-Foundation/Nextcloud-Claude-Skill-Package) | 24 | Nextcloud |
 | [React](https://github.com/OpenAEC-Foundation/React-Claude-Skill-Package) | 24 | React |
+| [Three.js](https://github.com/OpenAEC-Foundation/Three.js-Claude-Skill-Package) | 24 | Three.js, React Three Fiber, Drei |
+| [Docker](https://github.com/OpenAEC-Foundation/Docker-Claude-Skill-Package) | 22 | Docker Engine 24+ & Compose v2 |
+| [Draw.io](https://github.com/OpenAEC-Foundation/Draw.io-Claude-Skill-Package) | 22 | Draw.io diagram generation |
 | [Vite](https://github.com/OpenAEC-Foundation/Vite-Claude-Skill-Package) | 22 | Vite |
 | [n8n](https://github.com/OpenAEC-Foundation/n8n-Claude-Skill-Package) | 21 | n8n workflow automation |
+| [QGIS](https://github.com/OpenAEC-Foundation/QGIS-Claude-Skill-Package) | 19 | QGIS / PyQGIS spatial analysis |
+| [ThatOpen](https://github.com/OpenAEC-Foundation/ThatOpen-Claude-Skill-Package) | 18 | ThatOpen Engine 3.3.x (web BIM) |
 | [pdf-lib](https://github.com/OpenAEC-Foundation/pdf-lib-Claude-Skill-Package) | 17 | pdf-lib |
-| [PDFjs](https://github.com/OpenAEC-Foundation/PDFjs-Claude-Skill-Package) | 13 | pdfjs-dist |
 | [Fluent-i18n](https://github.com/OpenAEC-Foundation/Fluent-i18n-Claude-Skill-Package) | 16 | Project Fluent i18n |
+| [PDFjs](https://github.com/OpenAEC-Foundation/PDFjs-Claude-Skill-Package) | 13 | pdfjs-dist |
+| [SolidJS](https://github.com/OpenAEC-Foundation/SolidJS-Claude-Skill-Package) | 6 | SolidJS reactive framework |
 
 All packages at [OpenAEC Foundation](https://github.com/OpenAEC-Foundation).
 
@@ -189,7 +196,7 @@ All packages at [OpenAEC Foundation](https://github.com/OpenAEC-Foundation).
 
 ## Companion Skills: Cross-Technology Integration
 
-> **[Cross-Tech AEC Integration Skills](https://github.com/OpenAEC-Foundation/Cross-Tech-AEC-Claude-Skill-Package)** — 15 skills for technology boundaries
+> **[Cross-Tech AEC Integration Skills](https://github.com/OpenAEC-Foundation/Cross-Tech-AEC-Claude-Skill-Package)** — 9 skills for technology boundaries
 
 | Skill | Boundary | What it adds |
 |-------|----------|-------------|

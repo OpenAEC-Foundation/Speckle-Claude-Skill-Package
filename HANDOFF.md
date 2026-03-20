@@ -16,10 +16,13 @@
 - Validatie: 99.6% pass rate
 
 ## Wat er nog kan
-1. **MCP Server** — Custom Speckle MCP server bouwen (D-010, parallel track)
-2. **GitHub Release** — `git tag v1.0.0` en `gh release create`
-3. **Social Preview PNG** — Banner HTML renderen naar PNG en uploaden als GitHub social preview
-4. **GitHub Push** — Push naar remote en topics instellen
+1. **MCP Server** — Custom Speckle MCP server bouwen (D-010, parallel track) — NOT STARTED
+
+## Wat er is afgerond
+- **GitHub Release** — v1.0.0 tag en release aangemaakt
+- **Social Preview PNG** — Banner HTML gerenderd naar PNG en gecommit
+- **GitHub Push** — Gepusht naar remote, topics ingesteld (claude, skills, speckle, ai, deterministic, openaec, aec, bim)
+- **Repo description** — Ingesteld op GitHub
 
 ## Batch volgorde
 1. core (object-model, transport, api) — 3 skills
