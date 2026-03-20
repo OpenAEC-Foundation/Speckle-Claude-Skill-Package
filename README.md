@@ -187,4 +187,17 @@ All packages at [OpenAEC Foundation](https://github.com/OpenAEC-Foundation).
 
 ---
 
+## Companion Skills: Cross-Technology Integration
+
+> **[Cross-Tech AEC Integration Skills](https://github.com/OpenAEC-Foundation/Cross-Tech-AEC-Claude-Skill-Package)** — 15 skills for technology boundaries
+
+| Skill | Boundary | What it adds |
+|-------|----------|-------------|
+| `crosstech-impl-speckle-blender` | Speckle ↔ Blender | Connector patterns, material mapping, Bonsai/IFC through Speckle |
+| `crosstech-impl-speckle-revit` | Speckle ↔ Revit | Family type mapping, parameter sync, round-trip integrity |
+| `crosstech-impl-n8n-aec-pipeline` | n8n ↔ Speckle | Webhook integration, change detection pipelines |
+| `crosstech-impl-docker-aec-stack` | Docker ↔ Speckle | Speckle Server deployment (6-service docker-compose) |
+
+---
+
 Built with the [7-phase research-first methodology](https://github.com/OpenAEC-Foundation/Skill-Package-Workflow-Template) by the [OpenAEC Foundation](https://github.com/OpenAEC-Foundation).
