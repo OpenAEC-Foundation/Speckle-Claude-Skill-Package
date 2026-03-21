@@ -1,6 +1,6 @@
 # Speckle Skill Package — ROADMAP
 
-## Current Status: PUBLICATION COMPLETE (v1.0.0)
+## Current Status: v1.1.0 — Skills + MCP Server Complete
 
 | Phase | Description | Status | Skills |
 |-------|-------------|--------|--------|
@@ -27,4 +27,4 @@
 
 | Track | Description | Status |
 |-------|-------------|--------|
-| MCP Custom | Custom Speckle MCP server (high quality, smooth install-to-use) | NOT STARTED |
+| MCP Custom | Custom Speckle MCP server (high quality, smooth install-to-use) | DONE — 13 tools, TypeScript, stdio transport |

@@ -127,6 +127,28 @@ After installation, skills activate automatically based on context:
 - **Debug auth errors** — paste a 401/403 error -> activates `speckle-errors-auth`
 - **Federate models** — coordinate data across streams -> activates `speckle-impl-federation` + `speckle-agents-model-coordinator`
 
+## MCP Server
+
+This package includes a custom MCP server with 13 tools for direct Speckle API interaction. Add to your `.mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "speckle": {
+      "command": "node",
+      "args": ["./mcp-server/build/index.js"],
+      "env": {
+        "SPECKLE_TOKEN": "your-personal-access-token"
+      }
+    }
+  }
+}
+```
+
+Tools: `speckle_server_info`, `speckle_list_projects`, `speckle_get_project`, `speckle_search_projects`, `speckle_create_project`, `speckle_list_models`, `speckle_get_model`, `speckle_create_model`, `speckle_list_versions`, `speckle_get_version`, `speckle_get_object`, `speckle_get_object_children`, `speckle_graphql`
+
+See [mcp-server/README.md](mcp-server/README.md) for full documentation.
+
 ## Technology Coverage
 
 | Technology | Versions | Notes |

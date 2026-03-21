@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "speckle": {
+      "command": "node",
+      "args": ["./mcp-server/build/index.js"],
+      "env": {
+        "SPECKLE_TOKEN": "${SPECKLE_TOKEN}",
+        "SPECKLE_SERVER_URL": "https://app.speckle.systems"
+      }
+    }
+  }
+}

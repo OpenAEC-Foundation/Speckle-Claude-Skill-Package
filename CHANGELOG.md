@@ -4,6 +4,21 @@ All notable changes to the Speckle Skill Package will be documented in this file
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.1.0] - 2026-03-21
+
+### Added
+- Custom MCP server (`mcp-server/`) with 13 tools for Speckle API interaction
+  - Server info, project CRUD, model CRUD, version listing, object traversal, raw GraphQL
+- TypeScript implementation with `@modelcontextprotocol/sdk` v1, Zod v3, stdio transport
+- `.mcp.json` configuration for Claude Code integration
+- MCP server README with setup instructions and usage examples
+
+### Changed
+- ROADMAP.md: MCP Custom track marked DONE
+- README.md: Related Skill Packages table updated with 8 new packages
+- HANDOFF.md: completed items moved to "Wat er is afgerond" section
+- Repository description set on GitHub
+
 ## [1.0.0] - 2026-03-20
 
 ### Added

@@ -3,7 +3,7 @@
 > Gegenereerd: 2026-03-20 vanuit Skill-Package-Workflow-Template
 
 ## Status
-- **Fase:** v1.0.0 COMPLETE — alle 25 skills geschreven, gevalideerd, en gepubliceerd
+- **Fase:** v1.1.0 COMPLETE — 25 skills + MCP server met 13 tools
 - **Skills:** 25/25 geschreven (100 bestanden)
 - **GitHub remote:** https://github.com/OpenAEC-Foundation/Speckle-Claude-Skill-Package
 - **README:** Compleet met banner, skill catalog, installatie-instructies
@@ -15,14 +15,12 @@
 - Social preview banner in OpenAEC stijl
 - Validatie: 99.6% pass rate
 
-## Wat er nog kan
-1. **MCP Server** — Custom Speckle MCP server bouwen (D-010, parallel track) — NOT STARTED
-
 ## Wat er is afgerond
 - **GitHub Release** — v1.0.0 tag en release aangemaakt
 - **Social Preview PNG** — Banner HTML gerenderd naar PNG en gecommit
 - **GitHub Push** — Gepusht naar remote, topics ingesteld (claude, skills, speckle, ai, deterministic, openaec, aec, bim)
 - **Repo description** — Ingesteld op GitHub
+- **MCP Server** — Custom TypeScript MCP server met 13 tools (D-010), .mcp.json configuratie
 
 ## Batch volgorde
 1. core (object-model, transport, api) — 3 skills
