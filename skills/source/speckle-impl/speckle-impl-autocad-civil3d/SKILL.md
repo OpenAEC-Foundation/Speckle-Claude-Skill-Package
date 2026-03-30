@@ -45,7 +45,7 @@ Civil 3D:  File > Layer > Objects (inherits AutoCAD structure)
 | Extension Dictionaries | Yes | Appears in `properties` field |
 | Layers | Yes | Preserved as Collection hierarchy |
 
-### Publishable Content (Civil 3D — Additional)
+### Publishable Content (Civil 3D: Additional)
 
 | Content Type | Supported | Notes |
 |-------------|-----------|-------|
@@ -255,7 +255,7 @@ Civil 3D adds a fifth proxy type not present in standard AutoCAD:
 
 This proxy stores the schema of each Property Set — field names, data types, default values. It references objects that use the property set via the standard `objects` array of `applicationId` strings.
 
-### Proxy Types (Civil 3D — Full Set)
+### Proxy Types (Civil 3D: Full Set)
 
 | Proxy Type | Purpose |
 |-----------|---------|

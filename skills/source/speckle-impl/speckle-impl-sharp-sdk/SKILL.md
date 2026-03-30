@@ -51,7 +51,7 @@ metadata:
 
 ---
 
-## Old vs New SDK — Migration Guide
+## Old vs New SDK: Migration Guide
 
 ### DEPRECATED: speckle-sharp (Legacy)
 
@@ -98,7 +98,7 @@ dotnet add package Speckle.Objects
 
 ## Client and Account Setup
 
-### Account Creation (Manual — No Speckle Manager)
+### Account Creation (Manual: No Speckle Manager)
 
 ```csharp
 var account = new Account();
@@ -218,7 +218,7 @@ Base deserialized = await Operations.DeserializeAsync(json, cancellationToken);
 
 ---
 
-## Helpers — Simplified API
+## Helpers: Simplified API
 
 The `Helpers` class provides a streamlined API for common operations:
 
@@ -339,7 +339,7 @@ Every class extends `Base` and defines typed properties with serialization attri
 
 ---
 
-## IL Repack — Dependency Isolation
+## IL Repack: Dependency Isolation
 
 ### The Problem
 

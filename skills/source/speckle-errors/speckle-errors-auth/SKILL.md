@@ -93,7 +93,7 @@ The server does NOT recognize the caller as a valid user.
 **Diagnostic steps:**
 
 ```graphql
-# Step 1: Test token validity — this query requires only profile:read
+# Step 1: Test token validity: this query requires only profile:read
 query { activeUser { id name } }
 ```
 

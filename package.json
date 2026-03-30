@@ -1,0 +1,52 @@
+{
+  "name": "@openaec/speckle-claude-skill-package",
+  "version": "1.2.0",
+  "description": "25 deterministic Claude AI skills for Speckle Data Platform — object model, GraphQL API, Python/C# SDKs, connectors (Revit, Rhino, Blender, AutoCAD, Tekla), viewer, Automate",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenAEC-Foundation/Speckle-Claude-Skill-Package"
+  },
+  "keywords": [
+    "agent-skills",
+    "agentskills",
+    "claude-skills",
+    "speckle",
+    "bim",
+    "aec",
+    "graphql",
+    "revit",
+    "rhino",
+    "grasshopper",
+    "data-platform"
+  ],
+  "agents": {
+    "skills": [
+      { "name": "speckle-agents-data-validator", "path": "./skills/source/speckle-agents/speckle-agents-data-validator" },
+      { "name": "speckle-agents-model-coordinator", "path": "./skills/source/speckle-agents/speckle-agents-model-coordinator" },
+      { "name": "speckle-core-api", "path": "./skills/source/speckle-core/speckle-core-api" },
+      { "name": "speckle-core-object-model", "path": "./skills/source/speckle-core/speckle-core-object-model" },
+      { "name": "speckle-core-transport", "path": "./skills/source/speckle-core/speckle-core-transport" },
+      { "name": "speckle-errors-auth", "path": "./skills/source/speckle-errors/speckle-errors-auth" },
+      { "name": "speckle-errors-conversion", "path": "./skills/source/speckle-errors/speckle-errors-conversion" },
+      { "name": "speckle-errors-transport", "path": "./skills/source/speckle-errors/speckle-errors-transport" },
+      { "name": "speckle-impl-autocad-civil3d", "path": "./skills/source/speckle-impl/speckle-impl-autocad-civil3d" },
+      { "name": "speckle-impl-automate-functions", "path": "./skills/source/speckle-impl/speckle-impl-automate-functions" },
+      { "name": "speckle-impl-blender", "path": "./skills/source/speckle-impl/speckle-impl-blender" },
+      { "name": "speckle-impl-connectors-overview", "path": "./skills/source/speckle-impl/speckle-impl-connectors-overview" },
+      { "name": "speckle-impl-federation", "path": "./skills/source/speckle-impl/speckle-impl-federation" },
+      { "name": "speckle-impl-powerbi", "path": "./skills/source/speckle-impl/speckle-impl-powerbi" },
+      { "name": "speckle-impl-python-sdk", "path": "./skills/source/speckle-impl/speckle-impl-python-sdk" },
+      { "name": "speckle-impl-revit", "path": "./skills/source/speckle-impl/speckle-impl-revit" },
+      { "name": "speckle-impl-rhino-grasshopper", "path": "./skills/source/speckle-impl/speckle-impl-rhino-grasshopper" },
+      { "name": "speckle-impl-sharp-sdk", "path": "./skills/source/speckle-impl/speckle-impl-sharp-sdk" },
+      { "name": "speckle-impl-tekla", "path": "./skills/source/speckle-impl/speckle-impl-tekla" },
+      { "name": "speckle-impl-versioning", "path": "./skills/source/speckle-impl/speckle-impl-versioning" },
+      { "name": "speckle-impl-viewer", "path": "./skills/source/speckle-impl/speckle-impl-viewer" },
+      { "name": "speckle-syntax-automate", "path": "./skills/source/speckle-syntax/speckle-syntax-automate" },
+      { "name": "speckle-syntax-base-objects", "path": "./skills/source/speckle-syntax/speckle-syntax-base-objects" },
+      { "name": "speckle-syntax-graphql", "path": "./skills/source/speckle-syntax/speckle-syntax-graphql" },
+      { "name": "speckle-syntax-webhooks", "path": "./skills/source/speckle-syntax/speckle-syntax-webhooks" }
+    ]
+  }
+}

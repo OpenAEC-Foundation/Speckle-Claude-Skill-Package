@@ -240,13 +240,13 @@ var polyline = new Polyline
 All curve types require a `Plane` (origin, normal, xdir, ydir). See [references/examples.md](references/examples.md) for full construction examples.
 
 ```python
-# Python — Arc
+# Python: Arc
 arc = Arc(startPoint=p1, midPoint=p2, endPoint=p3, plane=xy_plane, units="m")
 
-# Python — Circle
+# Python: Circle
 circle = Circle(plane=xy_plane, radius=5.0, units="m")
 
-# Python — Ellipse
+# Python: Ellipse
 ellipse = Ellipse(plane=xy_plane, firstRadius=5.0, secondRadius=3.0, units="m")
 ```
 
