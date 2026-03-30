@@ -4,7 +4,7 @@ description: >
   Use when sending or receiving BIM data between Revit and Speckle, configuring parameter mapping, or handling coordinate systems.
   Prevents loss of parametric data on receive (ALWAYS creates Direct Shapes), coordinate system misalignment, and linked model confusion.
   Covers Revit 2022-2026 connector, 3 publishing modes (selection/view/category), Direct Shape receive behavior, parameter mapping, linked models, coordinate systems (Internal Origin/Project Base/Survey Point), rebar, and materials.
-  Keywords: speckle revit, revit connector, direct shape, parameter mapping, coordinate system, linked model, publish, receive, BIM.
+  Keywords: speckle revit, revit connector, direct shape, parameter mapping, coordinate system, linked model, publish, receive, BIM, send from Revit, receive in Revit, Revit families.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Revit 2022-2026, Speckle Connector for Revit (latest)."
 metadata:

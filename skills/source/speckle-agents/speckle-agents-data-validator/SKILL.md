@@ -4,7 +4,7 @@ description: >
   Use when validating Speckle objects before sending, checking received data integrity, or auditing model data quality.
   Prevents sending malformed objects that cause viewer rendering failures, missing required properties, and broken proxy references.
   Covers data validation patterns: object schema checking, required property verification, geometry integrity validation, pre-flight checks before send, post-receive validation, proxy reference integrity, and unit consistency checks.
-  Keywords: speckle validate, data validation, schema check, property check, geometry integrity, pre-flight, post-receive, quality check.
+  Keywords: speckle validate, data validation, schema check, property check, geometry integrity, pre-flight, post-receive, quality check, object malformed, missing properties, data looks wrong.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy or Speckle.Sdk."
 metadata:

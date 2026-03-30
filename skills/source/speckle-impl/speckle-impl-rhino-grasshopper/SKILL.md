@@ -4,7 +4,7 @@ description: >
   Use when sending geometry from Rhino or Grasshopper to Speckle, or receiving Speckle data into Rhino.
   Prevents missing user strings on receive, broken block handling, and attempting to create native BIM objects from Grasshopper (which is impossible).
   Covers Rhino 7/8 connector (geometry, hatches, text, blocks, user strings, named views, layers), Grasshopper 15+ components (Sign-In, Publish, Load, Query, Filter, Create Collection/Properties/Data Object), 3 object types, and block handling.
-  Keywords: speckle rhino, grasshopper, rhino connector, GH component, block, user strings, layers, publish, load, query, filter.
+  Keywords: speckle rhino, grasshopper, rhino connector, GH component, block, user strings, layers, publish, load, query, filter, send from Rhino, Grasshopper to Speckle.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Rhino 7/8 (Windows), Speckle Connector for Rhino (latest)."
 metadata:

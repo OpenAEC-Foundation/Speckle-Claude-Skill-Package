@@ -4,7 +4,7 @@ description: >
   Use when building, testing, deploying, or publishing Speckle Automate functions end-to-end.
   Prevents broken CI/CD pipelines, incorrect input schema registration, and missing error reporting in automation runs.
   Covers end-to-end function development, Python+C# templates, local testing, GitHub Actions CI/CD, deployment wizard, Function Library publishing, input schema definition, error reporting, file artifacts, and flatten_base traversal.
-  Keywords: speckle automate function, deploy, publish, github actions, ci/cd, function library, local testing, template, flatten_base.
+  Keywords: speckle automate function, deploy, publish, github actions, ci/cd, function library, local testing, template, flatten_base, create automation, run check on commit.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, speckle-automate (Python/C#)."
 metadata:

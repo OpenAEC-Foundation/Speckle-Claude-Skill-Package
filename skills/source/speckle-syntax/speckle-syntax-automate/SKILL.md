@@ -4,7 +4,7 @@ description: >
   Use when writing Speckle Automate functions, defining function inputs, or using the AutomationContext API.
   Prevents incorrect input schema definition, missing error reporting, and broken function registration.
   Covers Automate function structure, FunctionInputs (Pydantic/DataAnnotations), AutomationContext API (receive_version, attach_error_to_objects, mark_run_failed/success, store_file_result, set_context_view), and execute_automate_function.
-  Keywords: speckle automate, automation context, function inputs, automate function, mark_run_failed, attach_error, store_file_result.
+  Keywords: speckle automate, automation context, function inputs, automate function, mark_run_failed, attach_error, store_file_result, write automate function, handle errors.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy, Speckle.Sdk."
 metadata:

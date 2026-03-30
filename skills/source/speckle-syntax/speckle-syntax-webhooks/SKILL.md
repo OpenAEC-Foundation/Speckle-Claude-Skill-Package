@@ -4,7 +4,7 @@ description: >
   Use when setting up Speckle webhooks, handling webhook payloads, or automating reactions to Speckle events.
   Prevents incorrect event trigger strings, missing webhook security validation, and exceeded webhook limits.
   Covers webhook lifecycle (create/update/delete), all 14 event types with trigger strings, payload structure, configuration limits, security, and retry behavior.
-  Keywords: speckle webhook, event, trigger, payload, webhookCreate, commit_create, stream_update, branch_create.
+  Keywords: speckle webhook, event, trigger, payload, webhookCreate, commit_create, stream_update, branch_create, automation, notify, trigger on change, real-time update.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy, Speckle.Sdk."
 metadata:

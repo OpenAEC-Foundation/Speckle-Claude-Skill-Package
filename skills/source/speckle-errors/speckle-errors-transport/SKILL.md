@@ -4,7 +4,7 @@ description: >
   Use when debugging Speckle send/receive failures, transport timeout errors, SQLite lock issues, or authentication expiry during transfers.
   Prevents unhandled transport exceptions, SQLite database locks from concurrent access, and silent auth token expiry during long uploads.
   Covers transport failures (network errors, timeout, auth expiry), SQLite lock errors, memory limits, multi-transport errors, batch upload failures, progress reporting errors, and retry strategies.
-  Keywords: speckle error, transport error, sqlite lock, timeout, auth expiry, upload failed, receive failed, network error, retry.
+  Keywords: speckle error, transport error, sqlite lock, timeout, auth expiry, upload failed, receive failed, network error, retry, send failed, download stuck, connection timeout.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy or Speckle.Sdk."
 metadata:

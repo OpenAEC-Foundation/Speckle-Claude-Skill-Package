@@ -4,7 +4,7 @@ description: >
   Use when creating Speckle geometry (Point, Line, Mesh, Brep), collections, or domain objects (Wall, Floor, Beam).
   Prevents missing units on geometry, incorrect displayValue wrapping, and broken viewer rendering from unwrapped root objects.
   Covers Base object creation in Python and C#, geometry primitives, typed vs dynamic properties, Collections, displayValue, and Speckle.Objects domain classes.
-  Keywords: speckle point, line, mesh, brep, polyline, collection, wall, floor, beam, geometry, displayValue, create object.
+  Keywords: speckle point, line, mesh, brep, polyline, collection, wall, floor, beam, geometry, displayValue, create object, make geometry, build mesh, create wall.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy, Speckle.Sdk."
 metadata:

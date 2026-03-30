@@ -4,7 +4,7 @@ description: >
   Use when writing C#/.NET code with Speckle.Sdk to send, receive, or query Speckle data.
   Prevents old vs new SDK confusion, missing IL Repack dependency isolation, and incorrect DI registration.
   Covers Speckle.Sdk NuGet installation, old vs new SDK migration, Client/Account setup, Operations (Send/Receive/Serialize/Deserialize), Helpers (simplified API), IL Repack, Speckle.Objects domain model, and dependency injection patterns.
-  Keywords: speckle sdk, csharp, dotnet, Speckle.Sdk, nuget, Operations.Send, Operations.Receive, Helpers, IL Repack, Speckle.Objects.
+  Keywords: speckle sdk, csharp, dotnet, Speckle.Sdk, nuget, Operations.Send, Operations.Receive, Helpers, IL Repack, Speckle.Objects, C# integration, .NET Speckle, build connector.
 license: MIT
 compatibility: "Designed for Claude Code. Requires .NET Standard 2.0+, Speckle.Sdk (latest), Speckle Server 2.x/3.x."
 metadata:

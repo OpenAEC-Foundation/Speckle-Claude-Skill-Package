@@ -4,7 +4,7 @@ description: >
   Use when sending or receiving Speckle objects, configuring transports, or debugging data transfer issues.
   Prevents SQLite lock errors, auth token expiry during long transfers, and missing cache-first receive patterns.
   Covers ServerTransport, SQLiteTransport, MemoryTransport, DiskTransport, send/receive flow, caching strategy, and progress callbacks.
-  Keywords: speckle transport, server transport, sqlite transport, send, receive, cache, operations, upload, download.
+  Keywords: speckle transport, server transport, sqlite transport, send, receive, cache, operations, upload, download, how to send data, upload model, receive model, sync data.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy, Speckle.Sdk."
 metadata:

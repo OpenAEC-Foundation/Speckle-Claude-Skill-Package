@@ -4,7 +4,7 @@ description: >
   Use when exchanging data between multiple design tools via Speckle, planning federated model workflows, or resolving cross-tool data conflicts.
   Prevents applicationId instability across round-trips, geometry fidelity loss from baking, and broken proxy references in federated views.
   Covers cross-tool data exchange patterns, federated views, proxy-based relationships, applicationId stability, geometry baking for interoperability, asymmetric fidelity, common workflows (Revit to GH to Revit), conflict resolution, and versioning strategies.
-  Keywords: speckle federation, cross-tool, data exchange, interoperability, applicationId, geometry baking, federated model, round-trip.
+  Keywords: speckle federation, cross-tool, data exchange, interoperability, applicationId, geometry baking, federated model, round-trip, combine models, Revit to Rhino, exchange between tools.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, multiple Speckle Connectors."
 metadata:

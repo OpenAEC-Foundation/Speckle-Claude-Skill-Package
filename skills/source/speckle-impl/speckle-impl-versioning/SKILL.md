@@ -4,7 +4,7 @@ description: >
   Use when managing Speckle versions (commits), comparing model changes, implementing rollback strategies, or organizing models with branches.
   Prevents version history corruption, incorrect diff interpretation, and orphaned model branches.
   Covers version management (create/compare/rollback), sync strategies, version history traversal, DiffExtension in viewer, branch/model management, and multi-model coordination patterns.
-  Keywords: speckle version, commit, branch, model, diff, compare, rollback, history, version management, model management.
+  Keywords: speckle version, commit, branch, model, diff, compare, rollback, history, version management, model management, undo changes, see what changed, go back to previous.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy or Speckle.Sdk."
 metadata:

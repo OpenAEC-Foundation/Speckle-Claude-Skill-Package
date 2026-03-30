@@ -4,7 +4,7 @@ description: >
   Use when understanding Speckle connector architecture, planning cross-tool data exchange, or debugging conversion pipelines.
   Prevents misunderstanding of the ToSpeckle/ToHost conversion flow, incorrect applicationId assumptions, and missing proxy architecture patterns.
   Covers DUI3 shared UI, conversion pipeline (ToSpeckle/ToHost), supported connectors matrix, connector SDK, proxy architecture, data schema for connectors, applicationId, and units handling.
-  Keywords: speckle connector, conversion, ToSpeckle, ToHost, DUI3, applicationId, proxy, data schema, connector matrix.
+  Keywords: speckle connector, conversion, ToSpeckle, ToHost, DUI3, applicationId, proxy, data schema, connector matrix, Archicad, Navisworks, Dynamo, which connector, supported software.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, Speckle Connectors (latest)."
 metadata:

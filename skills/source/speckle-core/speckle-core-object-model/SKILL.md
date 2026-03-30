@@ -4,7 +4,7 @@ description: >
   Use when creating Speckle objects, understanding Base class inheritance, or working with object decomposition.
   Prevents incorrect detachment syntax, broken content hashing, and misuse of dynamic vs typed properties.
   Covers Base class hierarchy, id/applicationId, speckle_type, detaching (@), chunking, decomposition, DataObject, Collection, Proxy types, displayValue, and units.
-  Keywords: speckle base object, object model, detach, chunkable, decomposition, speckle_type, displayValue, collection, proxy.
+  Keywords: speckle base object, object model, detach, chunkable, decomposition, speckle_type, displayValue, collection, proxy, what is Base, how objects work, data structure, custom object.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy, Speckle.Sdk."
 metadata:

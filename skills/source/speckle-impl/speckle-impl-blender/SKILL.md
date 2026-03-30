@@ -4,7 +4,7 @@ description: >
   Use when exchanging 3D data between Blender and Speckle, handling mesh/curve conversion, or managing materials.
   Prevents attempting Linux usage (unsupported), sending cameras/lights (unsupported), and losing custom properties on receive.
   Covers Blender 4.2-5.0 connector (Win/Mac), mesh and curve support, 4 shader types (Principled/Diffuse/Emission/Glass), Apply Modifiers option, block loading modes, and known limitations (no Linux, no cameras/lights/textures, no custom properties on receive).
-  Keywords: speckle blender, blender connector, mesh, curves, materials, shader, principled bsdf, publish, receive.
+  Keywords: speckle blender, blender connector, mesh, curves, materials, shader, principled bsdf, publish, receive, send from Blender, Blender to Speckle.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Blender 4.2-5.0 (Windows/Mac), Speckle Connector for Blender (latest)."
 metadata:

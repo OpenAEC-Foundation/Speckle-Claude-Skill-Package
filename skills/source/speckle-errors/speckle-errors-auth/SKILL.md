@@ -4,7 +4,7 @@ description: >
   Use when debugging Speckle authentication failures, token expiry issues, or permission denied errors.
   Prevents PAT scope mismatch, OAuth flow misconfiguration, and confusing server vs cloud authentication endpoints.
   Covers auth errors (token expiry, scope mismatch, OAuth flow errors), PAT vs application token confusion, server vs cloud auth differences, refresh token failures, SSO issues, and scope debugging.
-  Keywords: speckle auth error, token expired, permission denied, scope mismatch, PAT, oauth error, 401, 403, unauthorized, forbidden.
+  Keywords: speckle auth error, token expired, permission denied, scope mismatch, PAT, oauth error, 401, 403, unauthorized, forbidden, can't login, access denied, token not working.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy or Speckle.Sdk."
 metadata:

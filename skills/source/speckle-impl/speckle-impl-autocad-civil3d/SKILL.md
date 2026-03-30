@@ -4,7 +4,7 @@ description: >
   Use when exchanging drawing data between AutoCAD or Civil 3D and Speckle, handling solids conversion, or working with Civil 3D infrastructure objects.
   Prevents data loss from 3D solids (converted to mesh), missing XData/Extension Dictionary transfer, and Civil 3D PropertySetDefinition issues.
   Covers AutoCAD 2022-2026 (geometry, hatch, text, blocks, solids-to-mesh, XData, Extension Dictionaries, layers) and Civil 3D (CivilObject types, corridors, featurelines, PropertySetDefinition proxy).
-  Keywords: speckle autocad, civil3d, autocad connector, xdata, extension dictionary, civil object, corridor, featureline, layer, block.
+  Keywords: speckle autocad, civil3d, autocad connector, xdata, extension dictionary, civil object, corridor, featureline, layer, block, send from AutoCAD, Civil 3D alignment.
 license: MIT
 compatibility: "Designed for Claude Code. Requires AutoCAD/Civil 3D 2022-2026, Speckle Connector for AutoCAD (latest)."
 metadata:

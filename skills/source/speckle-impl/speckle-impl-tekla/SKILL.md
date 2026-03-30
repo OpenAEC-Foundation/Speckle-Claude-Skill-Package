@@ -4,7 +4,7 @@ description: >
   Use when publishing structural steel/concrete data from Tekla Structures to Speckle.
   Prevents attempting to receive data INTO Tekla (publish-only connector), sending assemblies (unsupported), and expecting drawing views.
   Covers Tekla 2023-2025, publish-only behavior, selectable model objects (beams, plates, bolts), TeklaObject type, and known limitations (no assemblies, no drawings, no numbering series, no receive).
-  Keywords: speckle tekla, tekla structures, tekla connector, publish only, TeklaObject, structural steel, beam, plate, bolt.
+  Keywords: speckle tekla, tekla structures, tekla connector, publish only, TeklaObject, structural steel, beam, plate, bolt, send from Tekla, structural model.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Tekla Structures 2023-2025, Speckle Connector for Tekla (latest)."
 metadata:

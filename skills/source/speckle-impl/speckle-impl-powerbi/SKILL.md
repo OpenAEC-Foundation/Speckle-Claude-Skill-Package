@@ -4,7 +4,7 @@ description: >
   Use when connecting Power BI to Speckle for BIM data analytics and visualization dashboards.
   Prevents confusing Power BI connector with design connectors (read-only, analytics-focused), and missing Data Gateway setup for scheduled refresh.
   Covers Power BI connector setup, 7 helper functions, Data Gateway configuration for scheduled refresh, read-only data access, and analytics use cases distinct from design connectors.
-  Keywords: speckle power bi, powerbi, analytics, dashboard, visualization, data gateway, scheduled refresh, BIM analytics.
+  Keywords: speckle power bi, powerbi, analytics, dashboard, visualization, data gateway, scheduled refresh, BIM analytics, BIM dashboard, visualize model data, reports from Speckle.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Power BI Desktop, Speckle Connector for Power BI (latest)."
 metadata:

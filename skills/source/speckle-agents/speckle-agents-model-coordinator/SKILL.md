@@ -4,7 +4,7 @@ description: >
   Use when planning complex Speckle workflows, choosing the right connector for a task, or coordinating multi-tool data exchange.
   Prevents incorrect connector selection, terminology confusion (Stream vs Project), and broken cross-tool federation workflows.
   Covers intelligent workflow orchestration, connector selection decision trees, send/receive sequence planning, cross-tool federation coordination, terminology resolution, version strategy recommendations, and multi-model coordination.
-  Keywords: speckle workflow, orchestrate, coordinate, connector selection, federation, multi-tool, cross-tool, planning, strategy.
+  Keywords: speckle workflow, orchestrate, coordinate, connector selection, federation, multi-tool, cross-tool, planning, strategy, which connector, how to combine tools, exchange data.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, any Speckle Connector."
 metadata:

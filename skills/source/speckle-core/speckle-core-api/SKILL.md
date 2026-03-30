@@ -4,7 +4,7 @@ description: >
   Use when connecting to Speckle Server, authenticating, or understanding the GraphQL/REST API surface.
   Prevents confusion between old terminology (Stream/Branch/Commit) and new (Project/Model/Version), and auth scope mismatches.
   Covers GraphQL endpoint, authentication (PAT, OAuth2+PKCE), REST endpoints, terminology mapping, rate limiting, and error handling.
-  Keywords: speckle api, graphql, rest, authentication, PAT, oauth, project, stream, model, branch, version, commit.
+  Keywords: speckle api, graphql, rest, authentication, PAT, oauth, project, stream, model, branch, version, commit, how to authenticate, get project list, connect to server.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy, Speckle.Sdk."
 metadata:

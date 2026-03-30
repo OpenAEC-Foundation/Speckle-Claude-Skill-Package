@@ -4,7 +4,7 @@ description: >
   Use when writing GraphQL queries, mutations, or subscriptions against the Speckle Server API.
   Prevents incorrect pagination patterns, missing variable declarations, and deprecated query usage.
   Covers all major queries (activeUser, project, workspace, serverInfo), mutations (CRUD for projects/models/versions/webhooks/tokens), subscriptions, cursor-based pagination, and nested query patterns.
-  Keywords: speckle graphql, query, mutation, subscription, pagination, activeUser, project, model, version, cursor.
+  Keywords: speckle graphql, query, mutation, subscription, pagination, activeUser, project, model, version, cursor, fetch data, list projects, get versions, API query.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Server 2.x/3.x, SpecklePy, Speckle.Sdk."
 metadata:

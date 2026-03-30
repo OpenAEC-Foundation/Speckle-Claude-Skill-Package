@@ -4,7 +4,7 @@ description: >
   Use when debugging geometry conversion failures, missing properties after receive, or unexpected Direct Shape results in Revit.
   Prevents silent data loss from unsupported geometry types, broken proxy references, and unit mismatch between connectors.
   Covers conversion failures (unsupported geometry, Direct Shape fallback), missing properties on receive, geometry baking data loss, proxy resolution failures, unit mismatch errors, and displayValue rendering issues.
-  Keywords: speckle conversion error, unsupported geometry, direct shape, missing properties, unit mismatch, proxy error, displayValue, baking.
+  Keywords: speckle conversion error, unsupported geometry, direct shape, missing properties, unit mismatch, proxy error, displayValue, baking, element looks wrong, geometry missing.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Speckle Connectors (Revit, Rhino, Blender, AutoCAD)."
 metadata:

@@ -4,7 +4,7 @@ description: >
   Use when writing Python code with SpecklePy to send, receive, or query Speckle data.
   Prevents auth token confusion, incorrect transport setup, and missing resource module patterns.
   Covers SpecklePy installation, SpeckleClient authentication, resource modules (project, model, version, active_user, server, workspace), operations (send/receive/serialize/deserialize), ServerTransport configuration, and local data paths.
-  Keywords: specklepy, python sdk, SpeckleClient, operations.send, operations.receive, ServerTransport, pip install specklepy.
+  Keywords: specklepy, python sdk, SpeckleClient, operations.send, operations.receive, ServerTransport, pip install specklepy, query objects, filter by type, find walls, traverse, search model.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Python 3.10+, SpecklePy (latest), Speckle Server 2.x/3.x."
 metadata:

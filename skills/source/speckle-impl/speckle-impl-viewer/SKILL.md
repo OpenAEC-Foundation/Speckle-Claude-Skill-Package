@@ -4,7 +4,7 @@ description: >
   Use when embedding the Speckle viewer in a web application, loading 3D models, or implementing viewer interactions.
   Prevents missing extension initialization, incorrect loader setup, and broken event handling.
   Covers @speckle/viewer setup, Viewer class lifecycle, SpeckleLoader, UrlHelper, extensions (CameraController, FilteringExtension, SelectionExtension, DiffExtension, MeasurementsTool, SectionTool), events, and custom extension development.
-  Keywords: speckle viewer, 3d viewer, webgl, load model, filter, select, diff, measure, section, camera, extension, embed.
+  Keywords: speckle viewer, 3d viewer, webgl, load model, filter, select, diff, measure, section, camera, extension, embed, embed viewer, view model in browser, interactive viewer.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @speckle/viewer (latest), Speckle Server 2.x/3.x."
 metadata:
